@@ -54,3 +54,5 @@ function ex2() {
 }
 
 console.table(ex2());
+
+module.exports = ex2;
